@@ -1,0 +1,28 @@
+a { color: #4ea052; }
+a:hover { color: #38913b; }
+.button.button-primary,
+button.button-primary,
+input[type="submit"].button-primary,
+input[type="reset"].button-primary,
+input[type="button"].button-primary {
+	color: #FFF;
+	background-color: #4ea052;
+	border-color: #4ea052;
+}
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="submit"].button-primary:hover,
+input[type="reset"].button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="submit"].button-primary:focus,
+input[type="reset"].button-primary:focus,
+input[type="button"].button-primary:focus {
+	color: #FFF;
+	background-color: #38913b;
+	border-color: #38913b;
+}
+.post-more h3 span { color: #4ea052; }
+nav { background: #4ea052; }
+.info { background: #c9eaca; }
